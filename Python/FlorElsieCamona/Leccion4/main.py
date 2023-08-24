@@ -1,6 +1,6 @@
 # lista = Ariel, Liliana, Natalia, Osvaldo
 
-nombres = ['Naty', 'Osvaldo', 'Lily', 'Ariel']
+nombres = ['Nati', 'Osvaldo', 'Lily', 'Ariel']
 # Lista nombres
 print(nombres[0])
 print(nombres[1])
@@ -26,7 +26,7 @@ print(nombres)
 
 # Iterar una lista
 
-for nombre in nombres: # nombre es singular, la lista es plural
+for nombre in nombres:  # nombre es singular, la lista es plural
     print(nombre)
 else:
     print("No hay mas nombres en la lista")
@@ -70,9 +70,3 @@ print(nombres)
 # Eliminar la lista con -del-
 
 del nombres
-
-
-
-
-
-
