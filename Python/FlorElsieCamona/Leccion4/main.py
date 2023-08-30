@@ -1,3 +1,6 @@
+# Colecciones en Python
+# Las listas es lo que se conoce en otros lenguajes como arreglos o vectores
+
 # lista = Ariel, Liliana, Natalia, Osvaldo
 
 nombres = ['Nati', 'Osvaldo', 'Lily', 'Ariel']
@@ -38,6 +41,10 @@ print(len(nombres))  # le pasamos como parametro la lista con -len-
 # Agregamos un elemento al final de la lista con -append-
 
 nombres.append('Marcelo')
+nombres.append([1, 2, 3])
+nombres.append(True)
+nombres.append(10.45)
+nombres.append(7)
 print(nombres)
 
 # Insertar un elemento en un índice específico con -insert-
