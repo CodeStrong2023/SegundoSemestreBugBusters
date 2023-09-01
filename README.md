@@ -10,3 +10,6 @@
 * _Franco Pizarro_
 * _Belén Limachi_
 * _Angel Rojas_
+* _Nicolás Nuñez_
+* _Marcos Senn_
+* _Santiago Segura_
