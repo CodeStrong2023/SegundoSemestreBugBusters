@@ -1,6 +1,7 @@
 # Colecciones
 
 # Listas --> conjunto de elementos (pueden ser de diferentes tipos de datos) son mutables, se pueden modificar
+# Listas -> Arreglos y vectores en otros lenguajes
 
 nombres = ["Nicolas", "Santino", "Sofia", "Nazarena", "Tomas"]
 print(nombres)
@@ -37,6 +38,13 @@ else:
 print(len(nombres)) # cuantos elementos tiene la lista
 
 nombres.append("Marcelo") # agrega un elemento al final de la lista
+# Podemos agregar diferentes tipos de datos
+nombres.append([1,2,3]) # podemos tener otra lista dentro de la lista
+nombres.append(True)
+nombres.append(2.45)
+nombres.append([5,22])
+nombres.append(356)
+print(nombres)
 
 nombres.insert(3,"Mariana") # agrega un elemento en el indice especificado
 
@@ -49,6 +57,38 @@ del nombres[2] # elimina el indice indicado
 nombres.clear() # elimina todos los elementos de la lista
 print(nombres)
 del nombres # elimina la lista
+
+# Concatenar listas
+
+lista1 = [1,2,3]
+lista2 = [4,1,6]
+lista3 = lista1 + lista2
+print(lista3)
+
+# Extender la lista
+lista3.extend([7,8,1])
+print(lista3)
+
+print(lista3.index(7)) # en que indice se encuentra x elemento
+
+# Como saber cuantos valores repetidos hay en una lista
+print(lista3.count(1)) # Cuenta cuantos valores iguales hay en la lista
+
+# Para poner nuestra lista al reves
+lista3.reverse()
+print(lista3)
+
+# Para que una lista se multiplique repitiendo sus elementos
+lista4 = [1,2,3] * 2
+print(lista4)
+
+# Métodos de ordenamiento
+lista3.sort() # ordena ascendentemente la lista
+print(lista3)
+
+lista3.sort(reverse = True) # Ordena descendentemente la lista
+print(lista3)
+
 
 
 # Tuplas --> no son mutables, no se pueden modificar
@@ -92,4 +132,17 @@ print('\n',cocina)
 
 # eliminar la tupla
 del cocina
-print(cocina)
+
+# La tupla puede almacenar diferentes tipos de datos
+tupla = (24,"Hola", 64.021, False, ["Hello", "Goodbye"], 24, "letra")
+print(tupla)
+
+# Buscar un elemento
+print(24 in tupla)
+print("letra" not in tupla)
+
+print(len(tupla)) # metodo len
+
+print(tupla.index("Hola")) # metodo index. En que indice se encuentra el valor que le pasamos
+
+print(tupla.count(24)) # metodo count. Cuenta cuantos valor iguales hay en la tupla
