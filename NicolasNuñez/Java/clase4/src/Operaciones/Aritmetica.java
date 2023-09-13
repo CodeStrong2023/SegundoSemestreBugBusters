@@ -18,9 +18,11 @@ public class Aritmetica {
         return resultado; // return a + b;
     }
     
-    public int sumarConArgumentos(int num1, int num2){
-        a = num1; //no modifica los valores de los atributos del objeto
-        b = num2;
+    public int sumarConArgumentos(int num1, int b){
+        this.a = num1; //no modifica los valores de los atributos del objeto
+        this.b = b; //this hace referencia al atributo y no a la variable local
+        //this se puede usar cuando el atributo y el argumento tengan el mismo nombre
+        
         //return a + b;
         return sumarConRetorno(); //llamamos un metodo dentro de otro metodo
     }
