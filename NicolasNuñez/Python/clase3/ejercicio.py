@@ -72,3 +72,7 @@ jugadores = len(seleccion_argentina)
 
 print(f"Tenemos cargado en el diccionario de la selección a {jugadores} jugadores")
 
+# Otra forma de recorrer los diccionarios
+
+for i in seleccion_argentina:
+    print(f"{i} -> {seleccion_argentina}")
