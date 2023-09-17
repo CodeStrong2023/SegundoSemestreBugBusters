@@ -28,4 +28,3 @@ print(f"Lista de palabras que aparecen en la segunda lista, pero no en la primer
 
 ambas_listas = list(conjunto1 & conjunto2)
 print(f"Lista de palabras que aparecen en ambas listas: {ambas_listas}")
-
