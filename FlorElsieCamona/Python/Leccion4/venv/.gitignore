@@ -1,2 +1,3 @@
 # created by virtualenv automatically
-/Lib/site-packages
+venv/
+.idea
