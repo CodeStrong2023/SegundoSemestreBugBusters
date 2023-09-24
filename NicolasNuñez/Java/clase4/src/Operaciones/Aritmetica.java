@@ -7,6 +7,26 @@ public class Aritmetica {
     int a;
     int b;
     
+    //Constructor
+    /*
+    El constructor:
+    1) Construye un objeto
+    2) Reserva un espacio en memoria
+    3) Inicializa los atributos de la clase
+    */
+    
+    //Constructor por defecto, sin parametros
+    public Aritmetica(){ 
+        System.out.println("Se esta ejecutando el constructor numero 1");
+    }
+    
+    //sobrecarga de constructores/metodos
+    public Aritmetica(int num1, int num2){ //constructor con parametros
+        this.a = num1;
+        this.b = num2;
+        System.out.println("Se esta ejecutando el constructor numero 2");
+    }
+    
     //Metodos
     public void sumarNumeros(){
         int suma = a + b;
