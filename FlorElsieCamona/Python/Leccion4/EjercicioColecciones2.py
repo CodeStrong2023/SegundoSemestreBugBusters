@@ -6,7 +6,7 @@
 # 3 lista de palabras que aparecen en la segunda lista, pero no en la primera
 # 4 lista de palabras que aparecen en ambas listas
 
-lista1 = ['DF983', 'GH783', 'index', 'code01',777,  00, 'GD893', 'str', 12, 'GG467']
+lista1 = ['DF983', 'GH783', 'index', 'code01', 777,  00, 'GD893', 'str', 12, 'GG467']
 lista2 = ['code01', 8940, 'string', 12, 00, 'GG467', 15, 47.85, 'boolean', 'object']
 
 # 1
