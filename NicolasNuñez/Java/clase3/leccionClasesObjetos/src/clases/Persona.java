@@ -4,8 +4,8 @@ package clases;
 public class Persona {
     
     //atributos
-    String nombre;
-    String apellido;
+    public String nombre;
+    public String apellido;
     
     //metodos
     
