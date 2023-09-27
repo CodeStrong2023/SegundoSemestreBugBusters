@@ -1,6 +1,6 @@
 # Ejercicio 1: Eliminar duplicados de una lista
 # Escriba un programa donde tenga una lista y que a
-# continuation elimine los elementos repetidos, por ultimo
+# continuation elimine los elementos repetidos, por último
 # mostrar la lista
 
 # Ejemplo 1
@@ -25,8 +25,3 @@ lista = [1, 2, 3, "Ariel", 7, 7, 3, "Alberto", 5, "Ariel", 2, "Alberto"]
 # lista = list(conjunto)  # Convertimos el conjunto a una lista
 lista = list(set(lista))  # La conversion hecha en una sola línea de código
 print(lista)
-
-
-
-
-
