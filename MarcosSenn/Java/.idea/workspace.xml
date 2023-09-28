@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5e72a737-6e90-4e6f-9dbd-25d2b201f34f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/MarcosSenn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/.idea/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clases/Java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MarcosSenn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Java.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/Clase1y2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/src/Ejercicio01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase1y2/src/Ejercicio02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/Clase3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/src/Ejercicio1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/src/Ejercicio2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase3/src/Ejercicio3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/Clase4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/src/EjercicioCalcularMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/src/EjercicioSumaDeNumeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/src/Persona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase4/src/PruebaPersona.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/Clase5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/src/VerificarFecha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clase5/src/mostrarDeUnoAN.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2VmBqSYqkfJuYu1Nj8X10iQpIHi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "MarcosSenn",
+    "last_opened_file_path": "C:/Users/Marcos Senn/Desktop/Tecnicatura en programacion/Primer Año/2do Semestre/Programacion/SegundoSemestreBugBusters/MarcosSenn/Java",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.EjercicioCiclos">
+    <configuration name="Ejercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase6.Ejercicio01" />
+      <module name="MarcosSenn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EjercicioCiclos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase6.EjercicioCiclos" />
+      <module name="MarcosSenn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaCaja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Clase6.PruebaCaja" />
+      <module name="MarcosSenn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Clase6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EjercicioCiclos" />
+        <item itemvalue="Application.PruebaCaja" />
+        <item itemvalue="Application.Ejercicio01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e72a737-6e90-4e6f-9dbd-25d2b201f34f" name="Changes" comment="" />
+      <created>1695431567547</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695431567547</updated>
+      <workItem from="1695431567548" duration="2387000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
