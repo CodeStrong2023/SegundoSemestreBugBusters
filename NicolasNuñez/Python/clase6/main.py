@@ -81,3 +81,26 @@ def listar_nombres(*nombres): # Cuando desconocemos la cantidad de argumentos qu
 
 listar_nombres("Nico", "Santi", "Vale", "Juli", "Maria")
 listar_nombres("Marcos", "Flor", "Franco", "Belen")
+
+# Argumentos variables para un diccionarios
+def listar_terminos(**terminos): # Lo mas utilizado es **kwargs para recibir los argumentos
+    for key,value in terminos.items():
+        print(f"{key} : {value}")
+
+listar_terminos() # No recibe nada, nada se va a mostrar
+
+listar_terminos(IDE = "Integrated Development Environment", PK = "Primary Key")
+listar_terminos(Nombre = "Lionel Messi")
+
+
+def desplegar_nombres(nombres):
+    for nombre in nombres:
+        print(nombre)
+
+nombres2 = ["Tito", "Pepe", "Carlos"]
+
+desplegar_nombres(nombres2)
+desplegar_nombres("Carla")
+# desplegar_nombres(10) # No es un objeto iterable
+desplegar_nombres((10,11)) # Se covierte en una tupla, en un solo elemento no olvidar la tupla
+desplegar_nombres([22,55]) # Se convierte en lista
