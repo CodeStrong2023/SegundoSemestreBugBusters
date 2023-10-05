@@ -7,4 +7,4 @@ while numero < 0:
 factorial = 1
 for i in range(1, numero+1):
     factorial *= i
-print(f"\n El factorial de {numero} es: {factorial}")
+print(f"\nEl factorial de {numero} es: {factorial}")
