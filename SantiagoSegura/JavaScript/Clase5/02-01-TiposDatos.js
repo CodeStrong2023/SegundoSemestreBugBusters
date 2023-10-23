@@ -26,8 +26,9 @@ var bandera = true;
 console.log(bandera);
 
 //Tipo de dato funcion
-function miFuncion{}{}
-console.log(typeof miFuncion);
+function miFuncion() {}
+console.log(typeof miFuncion); 
+
 
 //Tipo de dato symbol
 var simbolo = Symbol("Mi simbolo");
@@ -42,7 +43,34 @@ class Persona{
 }
 console.log(typeof Persona);
 
+// Tipo de dato undefined
+var x = undefined;
+console.log(typeof x);
+
+
+x = undefined;
+console.log(typeof x);
+
+// null: significa ausencia de valor
+var y = null; // null no es un tipo de dato, pero su origen es de tipo object
+console.log(typeof y);
+
+// Tipo de dato array y Empoty String
+var autos = ['Citroen', 'Audi', 'BMW', 'Ford' ];
+console.log(autos);
+console.log(typeof autos); // Preguntamos que tipo de dato es: 
+
+var z = '' ;
+console.log(z); // Esto quiere decir a que es una cadena vacia:
+ console.log(typeof z);
 
 
 
-// Tipo de dato Undef
+
+
+
+
+
+
+
+
