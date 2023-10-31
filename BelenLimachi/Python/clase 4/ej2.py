@@ -1,4 +1,4 @@
-# Ejercicio1: Eliminar duplicados de una lista 
+# Ejercicio1= Eliminar duplicados de una lista 
 # Escribir un programa donde tenga una lista y que a continuacion 
 # elimine los elementos repetidos, por último mostrar la lista
 
