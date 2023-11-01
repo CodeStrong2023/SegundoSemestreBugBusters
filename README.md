@@ -5,11 +5,8 @@
 
 ## **INTEGRANTES**
 * _David Abadie_
-* _Florencia Camona_
-* _Javier Gonzalez_
 * _Franco Pizarro_
 * _Belén Limachi_
-* _Angel Rojas_
 * _Nicolás Nuñez_
 * _Marcos Senn_
 * _Santiago Segura_
