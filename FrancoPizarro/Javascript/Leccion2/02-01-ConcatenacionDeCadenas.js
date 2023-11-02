@@ -13,3 +13,22 @@ console.log(juntos);
 
 nombre += apellido; // Tercera concatenacion usando el operador
 console.log(nombre);
+
+// Hoy ya no se usa avr, se utiliza let y const
+let nombre2 = 'Pedro';
+console.log(nombre2);
+
+const apellido2 = 'Lepes';
+//apellido2 = 'Peres'; una ctte no puede ser modificada
+console.log(apellido2)
+
+let x, y; //Se pueden crear varias variables dentro de una misma línea
+x = 17, y = 21; // Se pueden hacer asignacion de varias variables dentro de la misma línea
+let z = x + y; //Se asigna el valor de la operacion
+console.log(z)
+
+let _1num = 31; //No utilizar números para iniciar una variable
+let rompiendo = 'rompe'; //No utilizar palabras reseravdas para variables
+
+console.log(_1num);
+console.log(rompiendo);
