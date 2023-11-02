@@ -1,7 +1,7 @@
 package clase9;
 import java.util.Date;
 
-public class Cliente {
+public class Cliente extends Persona{
     public static int getContadorCliente() {
         return contadorCliente;
     }
