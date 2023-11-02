@@ -16,8 +16,11 @@ public class TestArreglos {
         edades[2] = 28;
         System.out.println("edades 0 = " + edades [2]);
         
-        edades[3] = 7; // Fuera de rango, error en tiempo de ejecucion
+        //edades[3] = 7; // Fuera de rango, error en tiempo de ejecucion
         
+        for(int i = 0; i < edades.length; i++){
+            System.out.println("edades y sus elementos "+i+": "+edades[i]);
+        }
    
         
     }
