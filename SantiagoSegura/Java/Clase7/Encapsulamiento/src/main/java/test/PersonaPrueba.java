@@ -19,6 +19,7 @@ public class PersonaPrueba {
         //y imprimir, luego modificar sus valores y volver a imprimir
     }
     
+    
     public class Persona {
     String nombre;
     String apellido;
@@ -44,6 +45,7 @@ public class PersonaPrueba {
         System.out.println("Apellido: " + persona1.apellido);
         System.out.println("Edad: " + persona1.edad);
     }
+    
     
     
 }
