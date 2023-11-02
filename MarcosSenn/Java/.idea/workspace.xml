@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e72a737-6e90-4e6f-9dbd-25d2b201f34f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,21 +32,30 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;MarcosSenn&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Marcos Senn/Desktop/Tecnicatura en programacion/Primer Año/2do Semestre/Programacion/SegundoSemestreBugBusters/MarcosSenn/Java&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "MarcosSenn",
+    "last_opened_file_path": "C:/Users/Marcos Senn/Desktop/Tecnicatura en programacion/Primer Año/2do Semestre/Programacion/SegundoSemestreBugBusters/MarcosSenn/Java/Clases/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marcos Senn\Desktop\Tecnicatura en programacion\Primer Año\2do Semestre\Programacion\SegundoSemestreBugBusters\MarcosSenn\Java\Clases\src" />
+      <recent name="C:\Users\Marcos Senn\Desktop\Tecnicatura en programacion\Primer Año\2do Semestre\Programacion\SegundoSemestreBugBusters\MarcosSenn\Java\Clases\src\Clase1y2" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Clase1y2" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Ejercicio2">
     <configuration name="Ejercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Clase6.Ejercicio01" />
