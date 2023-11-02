@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e72a737-6e90-4e6f-9dbd-25d2b201f34f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Clases/src/Clase11/Ejercicio3.java" afterDir="false" />
-    </list>
+    <list default="true" id="5e72a737-6e90-4e6f-9dbd-25d2b201f34f" name="Changes" comment="clase 12 java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,9 +145,22 @@
       <workItem from="1697655839352" duration="247000" />
       <workItem from="1697669963245" duration="15000" />
     </task>
+    <task id="LOCAL-00001" summary="clase 12 java">
+      <option name="closed" value="true" />
+      <created>1698884652502</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698884652502</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="clase 12 java" />
+    <option name="LAST_COMMIT_MESSAGE" value="clase 12 java" />
   </component>
 </project>
