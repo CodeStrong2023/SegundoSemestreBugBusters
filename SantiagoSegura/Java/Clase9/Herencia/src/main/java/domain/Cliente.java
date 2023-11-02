@@ -19,16 +19,16 @@ public class Cliente extends Persona {
     this.vip = vip;
 }
 
-    public int getIdCliente() {
-        return idCliente;
+    public Cliente(Date fecha1) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
-    public void setIdCliente(int idCliente) {
-        this.idCliente = idCliente;
+    public int getIdCliente() {
+        return this.idCliente;
     }
 
     public Date getFechaRegistro() {
-        return fechaRegistro;
+        return this.fechaRegistro;
     }
 
     public void setFechaRegistro(Date fechaRegistro) {
@@ -36,11 +36,21 @@ public class Cliente extends Persona {
     }
 
     public boolean isVip() {
-        return vip;
+        return this.vip;
     }
 
     public void setVip(boolean vip) {
         this.vip = vip;
+    }
+
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
+        sb.append("Cliente{idCliente=").append(idCliente);
+        sb.append(", fechaRegistro=").append(fechaRegistro);
+        sb.append(", vip=").append(vip);
+        sb.append(", ").append(super.toString());
+        return sb.toString();
     }
 
     
