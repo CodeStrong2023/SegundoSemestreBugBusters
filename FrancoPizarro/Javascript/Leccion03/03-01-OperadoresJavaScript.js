@@ -57,7 +57,7 @@ else{
         console.log('Puede votar');
     }
     else{
-        onsole.log('Es muy joven para votar');
+        console.log('Es muy joven para votar');
     }
 }
 
