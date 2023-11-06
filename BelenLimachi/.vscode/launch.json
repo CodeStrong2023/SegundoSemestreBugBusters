@@ -1,0 +1,108 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Ciclos05",
+      "request": "launch",
+      "mainClass": "clase3.Ciclos05",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ej4",
+      "request": "launch",
+      "mainClass": "clase3.Ej4",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ej3",
+      "request": "launch",
+      "mainClass": "clase3.Ej3",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos03",
+      "request": "launch",
+      "mainClass": "clase3.Ciclos03",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos02",
+      "request": "launch",
+      "mainClass": "clase2.Ciclos02",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos01",
+      "request": "launch",
+      "mainClass": "Clase2.src.Ciclos01",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos01",
+      "request": "launch",
+      "mainClass": "Ciclos01",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos01",
+      "request": "launch",
+      "mainClass": "clase2.Ciclos01",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos01",
+      "request": "launch",
+      "mainClass": "ciclos01.Ciclos01",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos01",
+      "request": "launch",
+      "mainClass": "Ciclos01.Ciclos01",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos",
+      "request": "launch",
+      "mainClass": "ciclos.Ciclos",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "type": "java",
+      "name": "Ciclos",
+      "request": "launch",
+      "mainClass": "Ciclos",
+      "projectName": "BelenLimachi_de946b80"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/user/SegundoSemestreBugBusters/BelenLimachi/Java/clase 2",
+      "program": "c:/Users/user/SegundoSemestreBugBusters/BelenLimachi/Java/clase 2/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
