@@ -1,0 +1,40 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>0</x><y>50</y><w>210</w><h>220</h></coordinates><panel_attributes>&lt;&lt;Orden&gt;&gt;
+--
+-idOrden
+-producto[]: Producto
+-ContadorOrdenes: int
+MAX_PRODUCTOS: int = 10
+--
+-Orden()
++agregarProducto(producto :int
++calcularTotal[]:double
++mostrarOrden[]: void
+--
+Responsibilities
+-- Crear ObjetosOrden
+-- Administrar los productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>0</y><w>130</w><h>30</h></coordinates><panel_attributes>Un dominio, direcion</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>30</y><w>280</w><h>610</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>30</x><y>260</y><w>240</w><h>80</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;Un producto se agrega a una orden&gt;&gt;</panel_attributes><additional_attributes>10;10;10;60</additional_attributes></element><element><id>UMLClass</id><coordinates><x>0</x><y>310</y><w>210</w><h>300</h></coordinates><panel_attributes>&lt;&lt;Producto&gt;&gt;
+--
+-iidProducto: int
+-nombre: String
+-Precio: double
+-contadorProductos: int
+--
+-Productos()
++Producto(nombre: String, precio: double
++getIdProducto(): int
++getNombre(): String
++SelNombre(nombre: String): void
++getPrecio(): double
++setPrecio(precio: double): void
++toString(): String
+
+--
+Responsibilities
+-- Crear objetos de tipo producto
+-- Administrar los productos</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>0</y><w>130</w><h>30</h></coordinates><panel_attributes>TestVentas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>50</y><w>210</w><h>90</h></coordinates><panel_attributes>&lt;&lt;VentasTes&gt;&gt;
+--
++main(args: String[]): void
+--
+Responsibilities
+-- Ejecutar la prueba de la aplicacion de ventas</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>600</x><y>30</y><w>280</w><h>610</h></coordinates><panel_attributes></panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>230</x><y>0</y><w>190</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>10;10;170;10</additional_attributes></element><element><id>Relation</id><coordinates><x>400</x><y>0</y><w>170</w><h>30</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>150;10;10;10</additional_attributes></element></diagram>
